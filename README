@@ -1,5 +1,4 @@
-This is a demo program that uses a stack algorithm for reading
- a file and prints its lines in reverse order.
+This is a demo program that uses a stack algorithm for reading a file and prints its lines in reverse order.
 I introduced an interesting java method called object pop () and what it does is to return the element on the top of the stack, and deletes it from the stack.
 
 You can edit the content of the text file on line 13 and also when you change the folder or txt file name , kindly update it on the same line.
