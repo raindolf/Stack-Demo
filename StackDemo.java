@@ -1,6 +1,6 @@
 //**************************************************************************
 // This is a demo program that uses a stack algorithm for reading
-// a file and printing its lines in reverse order.
+// a file and prints its lines in reverse order.
 //Kindly contribute code or send me a mail here iraindolf@gmail.com
 //**************************************************************************
 import java.util.*;
